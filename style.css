@@ -1,0 +1,16 @@
+.ui.borderless.topmenu.menu{
+  border: none;
+}
+
+
+
+.ui.fitted.item{
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+.right {
+  position:absolute;
+  right: 10px;
+
+}
